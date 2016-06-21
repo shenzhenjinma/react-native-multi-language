@@ -1,0 +1,23 @@
+{
+  "name": "react-native-multi-language",
+  "version": "1.0.2",
+  "description": "react-native-multi-language react-multi-language",
+  "main": "RString.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenzhenjinma/react-native-multi-language.git"
+  },
+  "keywords": [
+    "react-native-multi-language",
+    "react-multi-language"
+  ],
+  "author": "root@68xg.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenzhenjinma/react-native-multi-language/issues"
+  },
+  "homepage": "https://github.com/shenzhenjinma/react-native-multi-language#readme"
+}
